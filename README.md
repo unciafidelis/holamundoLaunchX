@@ -1,7 +1,27 @@
-# holamundoLaunchX
-Una creación introductoria para el curso de github Launch X
+# hola otro mundo LaunchX
 
-Autor: Alejandro Morgan
-Nombre de explorador (Wink wink) en github: Unciafidelis
+Esta nueva creación es una modificación utilizando otra rama o branch llamada hola-otro-mundo
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Modificado por: 
+Alejandro Morgan
+Unciafidelis
 Fecha: 4 de febrero de 2022
