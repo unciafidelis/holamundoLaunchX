@@ -1,0 +1,3 @@
+Este es un archivo de texto.
+
+Esta parte del ejercicio para el taller de GitHub es para aprender a crear archivos directamente en el repositorio, que pueden ser de texto o código.
